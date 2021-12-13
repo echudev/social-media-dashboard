@@ -47,5 +47,4 @@ Users should be able to:
 ### What I learned
 
 - Work with diferent color schemes.
-- Get and Set Attributes on HTML elements.
 - Get and Set items from localStorage.
