@@ -37,9 +37,9 @@ Users should be able to:
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
+- CSS Flexbox
 - CSS Grid
+- CSS Media Queries
 - Bootstrap 
 - Mobile-first workflow
 - Vanilla Javascript
@@ -48,3 +48,5 @@ Users should be able to:
 
 - Work with diferent color schemes.
 - Get and Set items from localStorage.
+- Work with CSS media queries
+- Create CSS grid rows and columns
